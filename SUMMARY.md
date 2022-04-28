@@ -9,4 +9,6 @@
 
 ## Node.js
 
-* [Orígenes y filosofía](node.js/origenes-y-filosofia.md)
+* [Node: Orígenes y filosofía](node.js/node-origenes-y-filosofia.md)
+* [EventLoop: Asíncronia por diseño](node.js/eventloop-asincronia-por-diseno.md)
+* [Node: Variables de entorno](node.js/node-variables-de-entorno.md)
