@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxqYXZhc2NyaXB0fGVufDB8fHx8MTY1MTEzMTY2MQ&ixlib=rb-1.2.1&q=85
-coverY: 0
+cover: .gitbook/assets/banner-image-1.jpg
+coverY: 1017.3267326732673
 ---
 
 # Bienvenido
