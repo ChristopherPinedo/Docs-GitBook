@@ -13,4 +13,4 @@
 * [EventLoop: Asíncronia por diseño](node.js/eventloop-asincronia-por-diseno.md)
 * [Node: Variables de entorno](node.js/node-variables-de-entorno.md)
 * [Node: Herramientas utiles](node.js/node-herramientas-utiles.md)
-* [Node: Asincronismo](node.js/node-asincronismo.md)
+* [Node: Asincronismo](node.js/page-1.md)
