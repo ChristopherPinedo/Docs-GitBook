@@ -14,3 +14,6 @@
 * [Node: Variables de entorno](node.js/node-variables-de-entorno.md)
 * [Node: Herramientas utiles](node.js/node-herramientas-utiles.md)
 * [Node: Asincronismo](node.js/page-1.md)
+* [Modulos: Globals](node.js/modulos-globals.md)
+* [Modulos: File system](node.js/modulos-file-system.md)
+* [Modulos: Console](node.js/modulos-console.md)
