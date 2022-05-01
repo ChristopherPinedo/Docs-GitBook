@@ -24,8 +24,8 @@ Podemos llamar a `spawn` para obtener el proceso: _La ventaja de este enfoque es
 
 ```javascript
 const { spawn } = require('child_process')
-const myprocess = spawn('ls')
+const myprocess = spawn('ls', ['-la']);
 
-process.stdout.on("data", data => console.log(data.toString()));
-process.on("exit", () => console.log("process end"));
+myprocess.stdout.on("data", data => console.log(data.toString()));
+myprocess.on("exit", () => console.log("process end"));
 ```

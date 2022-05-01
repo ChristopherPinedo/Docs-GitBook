@@ -19,3 +19,5 @@
 * [Modulos: Console](node.js/modulos-console.md)
 * [Node: Errores](node.js/node-errores.md)
 * [Node: Proceso hijo](node.js/node-proceso-hijo.md)
+* [Node: Nativos en C++](node.js/node-nativos-en-c++.md)
+* [Modulos: HTTP](node.js/modulos-http.md)
