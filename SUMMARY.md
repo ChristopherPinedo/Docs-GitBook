@@ -17,3 +17,5 @@
 * [Modulos: Globals](node.js/modulos-globals.md)
 * [Modulos: File system](node.js/modulos-file-system.md)
 * [Modulos: Console](node.js/modulos-console.md)
+* [Node: Errores](node.js/node-errores.md)
+* [Node: Proceso hijo](node.js/node-proceso-hijo.md)
