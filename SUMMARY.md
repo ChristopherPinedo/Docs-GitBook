@@ -21,3 +21,5 @@
 * [Node: Proceso hijo](node.js/node-proceso-hijo.md)
 * [Node: Nativos en C++](node.js/node-nativos-en-c++.md)
 * [Modulos: HTTP](node.js/modulos-http.md)
+* [Modulos: OS](node.js/modulos-os.md)
+* [Modulos: Process](node.js/modulos-process.md)
