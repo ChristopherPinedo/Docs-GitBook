@@ -4,8 +4,7 @@
 
 ## Javascript
 
-* [Requesting Time Off](javascript/requesting-time-off.md)
-* [Filing Expenses](javascript/filing-expenses.md)
+* [JS: API Consume](javascript/js-api-consume.md)
 
 ## Node.js
 
