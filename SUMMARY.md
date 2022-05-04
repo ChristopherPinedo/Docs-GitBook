@@ -28,3 +28,4 @@
 * [POO: Paradigma](poo-javascript/poo-paradigma.md)
 * [POO JS: Objetos](poo-javascript/poo-js-objetos.md)
 * [POO JS: Clases](poo-javascript/poo-js-clases.md)
+* [POO JS: Abstracción](poo-javascript/poo-js-abstraccion.md)
