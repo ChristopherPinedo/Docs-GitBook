@@ -22,3 +22,9 @@
 * [Modulos: HTTP](node.js/modulos-http.md)
 * [Modulos: OS](node.js/modulos-os.md)
 * [Modulos: Process](node.js/modulos-process.md)
+
+## POO JavaScript
+
+* [POO: Paradigma](poo-javascript/poo-paradigma.md)
+* [POO JS: Objetos](poo-javascript/poo-js-objetos.md)
+* [POO JS: Clases](poo-javascript/poo-js-clases.md)
