@@ -22,6 +22,7 @@
 * [Modulos: HTTP](node.js/modulos-http.md)
 * [Modulos: OS](node.js/modulos-os.md)
 * [Modulos: Process](node.js/modulos-process.md)
+* [Node: Buffer](node.js/node-buffer.md)
 
 ## POO JavaScript
 
