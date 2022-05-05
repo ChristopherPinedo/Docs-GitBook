@@ -29,3 +29,5 @@
 * [POO JS: Objetos](poo-javascript/poo-js-objetos.md)
 * [POO JS: Clases](poo-javascript/poo-js-clases.md)
 * [POO JS: Abstracción](poo-javascript/poo-js-abstraccion.md)
+* [POO JS: Encapsulamiento](poo-javascript/poo-js-encapsulamiento.md)
+* [POO JS: Herencia](poo-javascript/poo-js-herencia.md)
