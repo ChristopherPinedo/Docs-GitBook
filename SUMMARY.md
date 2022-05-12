@@ -24,6 +24,7 @@
 * [Modulos: OS](node.js/modulos-os.md)
 * [Modulos: Process](node.js/modulos-process.md)
 * [Node: Buffer](node.js/node-buffer.md)
+* [Node: Streams](node.js/node-streams.md)
 
 ## POO JavaScript
 
