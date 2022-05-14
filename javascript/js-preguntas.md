@@ -1,5 +1,7 @@
 # JS: Preguntas
 
+## ¿DOM: NodeList, Events(propagation, delegation, lazy loading)?
+
 ## ¿Promesas?
 
 ## ¿Middlewares?
