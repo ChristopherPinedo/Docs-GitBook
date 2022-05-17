@@ -1,5 +1,13 @@
 # Reactividad
 
+### Estado
+
+### Render
+
+#### Virtual DOM
+
+#### No Virtual Dom o Partial Virtual DOM
+
 ### Paradigma reactivo
 
 #### Responsive
