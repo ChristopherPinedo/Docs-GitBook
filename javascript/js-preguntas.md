@@ -1,5 +1,7 @@
 # JS: Preguntas
 
+## ¿ Injeccion de dependencias?
+
 ## ¿DOM: NodeList, Events(propagation, delegation, lazy loading)?
 
 ## ¿Promesas?

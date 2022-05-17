@@ -39,13 +39,18 @@
 
 ## Librerias y Framworks de JS
 
+* [Tipos de aplicaciones](librerias-y-framworks-de-js/tipos-de-aplicaciones/README.md)
+  * [Según su router](librerias-y-framworks-de-js/tipos-de-aplicaciones/segun-su-router.md)
 * [Conceptos](librerias-y-framworks-de-js/conceptos/README.md)
   * [Componentes](librerias-y-framworks-de-js/conceptos/componentes.md)
   * [Reactividad](librerias-y-framworks-de-js/conceptos/reactividad.md)
+  * [Librerias y frameworks](librerias-y-framworks-de-js/conceptos/librerias-y-frameworks.md)
 * [React.js](librerias-y-framworks-de-js/react.js/README.md)
-  * [Conceptos](react.js/conceptos-react.js.md)
-  * [Fundamentos](librerias-y-framworks-de-js/react.js/fundamentos/README.md)
-    * [Componentes y Comportamientos](librerias-y-framworks-de-js/react.js/fundamentos/componentes-y-comportamientos.md)
-    * [Componentes (propiedades)](librerias-y-framworks-de-js/react.js/fundamentos/componentes-propiedades.md)
-    * [Elementos (atributos)](librerias-y-framworks-de-js/react.js/fundamentos/elementos-atributos.md)
+  * [Fundamentos](librerias-y-framworks-de-js/react.js/fundamentos.md)
+  * [Conceptos](librerias-y-framworks-de-js/react.js/conceptos/README.md)
+    * [Hidratación](librerias-y-framworks-de-js/react.js/conceptos/hidratacion.md)
+  * [Fundamentos](librerias-y-framworks-de-js/react.js/fundamentos-1/README.md)
+    * [Componentes y Comportamientos](librerias-y-framworks-de-js/react.js/fundamentos-1/componentes-y-comportamientos.md)
+    * [Componentes (propiedades)](librerias-y-framworks-de-js/react.js/fundamentos-1/componentes-propiedades.md)
+    * [Elementos (atributos)](librerias-y-framworks-de-js/react.js/fundamentos-1/elementos-atributos.md)
 * [Redux](react.js/redux.md)
