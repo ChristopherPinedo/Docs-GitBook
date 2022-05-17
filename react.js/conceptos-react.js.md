@@ -1,4 +1,4 @@
-# Conceptos React.js
+# Conceptos
 
 ## Hidratación de componentes
 

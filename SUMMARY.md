@@ -39,11 +39,12 @@
 
 ## Librerias y Framworks de JS
 
-* [Conceptos](librerias-y-framworks-de-js/conceptos.md)
+* [Conceptos](librerias-y-framworks-de-js/conceptos/README.md)
+  * [Componentes](librerias-y-framworks-de-js/conceptos/componentes.md)
 * [React.js](librerias-y-framworks-de-js/react.js/README.md)
-  * [Conceptos](librerias-y-framworks-de-js/react.js/conceptos.md)
+  * [Conceptos](react.js/conceptos-react.js.md)
   * [Fundamentos](librerias-y-framworks-de-js/react.js/fundamentos/README.md)
     * [Componentes y Comportamientos](librerias-y-framworks-de-js/react.js/fundamentos/componentes-y-comportamientos.md)
     * [Componentes (propiedades)](librerias-y-framworks-de-js/react.js/fundamentos/componentes-propiedades.md)
     * [Elementos (atributos)](librerias-y-framworks-de-js/react.js/fundamentos/elementos-atributos.md)
-* [Redux](librerias-y-framworks-de-js/redux.md)
+* [Redux](react.js/redux.md)
