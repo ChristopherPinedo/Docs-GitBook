@@ -40,4 +40,8 @@
 ## React.js
 
 * [Conceptos React.js](react.js/conceptos-react.js.md)
+* [Fundamentos](react.js/fundamentos/README.md)
+  * [Componentes y Comportamientos](react.js/fundamentos/componentes-y-comportamientos.md)
+  * [Componentes (propiedades)](react.js/fundamentos/componentes-propiedades.md)
+  * [Elementos (atributos)](react.js/fundamentos/elementos-atributos.md)
 * [Redux](react.js/redux.md)
