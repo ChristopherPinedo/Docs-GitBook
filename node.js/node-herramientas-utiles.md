@@ -12,7 +12,7 @@ nodemon + archivo al que quiero acceder detecta cambios, y ejecuta el código.
 npm install -g nodemon
 ```
 
-* [Nodemon](https://nodemon.io/)
+* [Nodemon](https://nodemon.io)
 
 ## **Producción**
 
@@ -29,4 +29,4 @@ Es un demonio administrador de procesos que me puede ayudar a administrar y mant
 npm install -g pm2
 ```
 
-[PM2](https://pm2.keymetrics.io/)
+[PM2](https://pm2.keymetrics.io)

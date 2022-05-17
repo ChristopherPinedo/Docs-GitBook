@@ -41,6 +41,7 @@
 
 * [Conceptos](librerias-y-framworks-de-js/conceptos/README.md)
   * [Componentes](librerias-y-framworks-de-js/conceptos/componentes.md)
+  * [Reactividad](librerias-y-framworks-de-js/conceptos/reactividad.md)
 * [React.js](librerias-y-framworks-de-js/react.js/README.md)
   * [Conceptos](react.js/conceptos-react.js.md)
   * [Fundamentos](librerias-y-framworks-de-js/react.js/fundamentos/README.md)

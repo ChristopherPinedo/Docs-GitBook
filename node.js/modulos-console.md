@@ -6,7 +6,7 @@ Con console podemos imprimir todo tipo de valores por\
 nuestra terminal.
 
 * **console.log**: recibe cualquier tipo y lo muestra en el consola.
-* [**console.info**](http://console.info/): es equivalente a log pero es usado para informar.
+* [**console.info**](http://console.info): es equivalente a log pero es usado para informar.
 * **console.error**: es equivalente a log pero es usado para errores.
 * **console.warn**: es equivalente a log pero es usado para warning.
 * **console.table**: muestra una tabla a partir de un objeto.
