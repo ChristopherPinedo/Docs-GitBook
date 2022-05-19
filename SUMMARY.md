@@ -54,3 +54,11 @@
     * [Componentes (propiedades)](librerias-y-framworks-de-js/react.js/fundamentos-1/componentes-propiedades.md)
     * [Elementos (atributos)](librerias-y-framworks-de-js/react.js/fundamentos-1/elementos-atributos.md)
 * [Redux](react.js/redux.md)
+
+## WEB
+
+* [Optimizacion Web](web/optimizacion-web/README.md)
+  * [3. Critical Render Path](web/optimizacion-web/3.-critical-render-path.md)
+  * [1. RAIL model](web/optimizacion-web/1.-rail-model.md)
+  * [2. Performance Metrics](web/optimizacion-web/2.-performance-metrics.md)
+* [Page 1](web/page-1.md)
