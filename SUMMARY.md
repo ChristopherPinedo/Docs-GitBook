@@ -6,6 +6,7 @@
 
 * [JS: Preguntas](javascript/js-preguntas.md)
 * [JS: API Consume](javascript/js-api-consume.md)
+* [JS: Arrays](javascript/js-arrays.md)
 
 ## Node.js
 
