@@ -27,4 +27,8 @@
 * Includes
   * Busca en un array o string.
   * Devuelve true si lo encuentra.
-*
+* Join - split
+* Concat
+* Flat
+* Flatmap
+* Sort
