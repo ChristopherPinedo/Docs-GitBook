@@ -24,3 +24,7 @@
   * Devuelve el primer elemento que cumpla la condicion.
   * .findIndex
     * Devuelve la posicion del elemento.
+* Includes
+  * Busca en un array o string.
+  * Devuelve true si lo encuentra.
+*
