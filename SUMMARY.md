@@ -62,4 +62,14 @@
   * [3. Critical Render Path](web/optimizacion-web/3.-critical-render-path.md)
   * [1. RAIL model](web/optimizacion-web/1.-rail-model.md)
   * [2. Performance Metrics](web/optimizacion-web/2.-performance-metrics.md)
-* [Page 1](web/page-1.md)
+* [Web Components](web/web-components/README.md)
+  * [APIs de Web Components](web/web-components/apis-de-web-components.md)
+  * [Ventajas](web/web-components/ventajas.md)
+  * [Ciclo de vida](web/web-components/ciclo-de-vida.md)
+
+## REACT.JS
+
+* [Conceptos](react.js/conceptos/README.md)
+  * [Principios de diseño React](react.js/conceptos/principios-de-diseno-react.md)
+  * [Composicion de componentes](react.js/conceptos/composicion-de-componentes.md)
+  * [Colocacion del estado](react.js/conceptos/colocacion-del-estado.md)
