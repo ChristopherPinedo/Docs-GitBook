@@ -73,3 +73,4 @@
   * [Principios de diseño React](react.js/conceptos/principios-de-diseno-react.md)
   * [Composicion de componentes](react.js/conceptos/composicion-de-componentes.md)
   * [Colocacion del estado](react.js/conceptos/colocacion-del-estado.md)
+  * [Render props & Render functions](react.js/conceptos/render-props-and-render-functions.md)
