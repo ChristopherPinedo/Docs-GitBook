@@ -74,3 +74,9 @@
   * [Composicion de componentes](react.js/conceptos/composicion-de-componentes.md)
   * [Colocacion del estado](react.js/conceptos/colocacion-del-estado.md)
   * [Render props & Render functions](react.js/conceptos/render-props-and-render-functions.md)
+  * [High Order Components](react.js/conceptos/high-order-components.md)
+
+## PF Javascript
+
+* [Funciones](pf-javascript/funciones.md)
+* [Page 1](pf-javascript/page-1.md)
