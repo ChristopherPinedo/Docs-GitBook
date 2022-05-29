@@ -1,2 +1,0 @@
-# Render props & Render functions
-
