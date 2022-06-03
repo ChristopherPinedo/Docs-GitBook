@@ -85,7 +85,8 @@
 * [4. Manejo profesional del estado](react.js/4.-manejo-profesional-del-estado/README.md)
   * [4.1. Estados independientes y compuestos](react.js/4.-manejo-profesional-del-estado/4.1.-estados-independientes-y-compuestos.md)
   * [4.2. Codigo imperativo y declarativo en React](react.js/4.-manejo-profesional-del-estado/4.2.-codigo-imperativo-y-declarativo-en-react/README.md)
-    * [4.2.1. Reducer](react.js/4.-manejo-profesional-del-estado/4.2.-codigo-imperativo-y-declarativo-en-react/4.2.1.-reducer.md)
+    * [4.2.1. Reducer](react.js/4.-manejo-profesional-del-estado/4.2.-codigo-imperativo-y-declarativo-en-react/4.2.1.-reducer/README.md)
+      * [4.2.2.1. Action creators y ActionTypes](react.js/4.-manejo-profesional-del-estado/4.2.-codigo-imperativo-y-declarativo-en-react/4.2.1.-reducer/4.2.2.1.-action-creators-y-actiontypes.md)
 
 ## PF Javascript
 
