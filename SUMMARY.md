@@ -97,3 +97,8 @@
 
 * [Tailwind CSS](css-frameworks/tailwind-css/README.md)
   * [1. Principios](css-frameworks/tailwind-css/1.-principios.md)
+* [Bootstrap 5](css-frameworks/bootstrap-5.md)
+
+## GIT  y GitHub
+
+* [Detached HEAD](git-y-github/detached-head.md)
